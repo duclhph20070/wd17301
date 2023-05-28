@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "san pham 3",
+      "image": "https://pixabay.com/vi/photos/thuy%e1%bb%81n-b%e1%ba%bfn-t%c3%a0u-b%e1%bb%9d-bi%e1%bb%83n-bi%e1%bb%83n-8005603/",
+      "description": "abc",
+      "id": 6
+    },
+    {
+      "name": "san pham 3",
+      "image": "https://pixabay.com/vi/photos/thuy%e1%bb%81n-b%e1%ba%bfn-t%c3%a0u-b%e1%bb%9d-bi%e1%bb%83n-bi%e1%bb%83n-8005603/",
+      "description": "abc",
+      "id": 7
+    },
+    {
+      "name": "san pham 3",
+      "image": "https://pixabay.com/vi/photos/thuy%e1%bb%81n-b%e1%ba%bfn-t%c3%a0u-b%e1%bb%9d-bi%e1%bb%83n-bi%e1%bb%83n-8005603/",
+      "description": "a",
+      "id": 8
+    }
+  ]
+}
